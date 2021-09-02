@@ -15,3 +15,4 @@ Tentativa de Login
 *** Test Case ***
 Login no Sistema email errado   ${EMPTY}                123456          An email address required.
 Login no sistema senha errado   rkawakubo@gmail.com     ${EMPTY}        Password is required.
+novo caso
